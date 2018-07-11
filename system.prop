@@ -53,6 +53,9 @@ ro.ril.telephony.qan_resp_strings=6
 # Ril sends only one RIL_UNSOL_CALL_RING, so set call_ring.multiple to false
 ro.telephony.call_ring.multiple=0
 
+# RR
+ro.rr.maintainer=fessmm, BlackDeaths (Blackjubel)
+
 # Sensors
 debug.sensors=1
 
